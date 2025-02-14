@@ -1,0 +1,15 @@
+org/ThoughtWorks/com/Units.java
+ org.ThoughtWorks.com.Units
+org/ThoughtWorks/com/Weight.java
+ org.ThoughtWorks.com.Weight
+ org.ThoughtWorks.com.Weight$WeightUnit
+org/ThoughtWorks/com/Length.java
+ org.ThoughtWorks.com.Length
+ org.ThoughtWorks.com.Length$LengthUnit
+org/ThoughtWorks/com/Measurement.java
+ org.ThoughtWorks.com.Measurement
+org/ThoughtWorks/com/ScalarMeasurement.java
+ org.ThoughtWorks.com.ScalarMeasurement
+org/ThoughtWorks/com/Temperature.java
+ org.ThoughtWorks.com.Temperature
+ org.ThoughtWorks.com.Temperature$TemperatureUnit

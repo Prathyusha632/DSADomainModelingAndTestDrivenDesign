@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testQuantityComaparision" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-06-14T05:43:24" hostname="DESKTOP-1NO7M7P" time="0.064">
+  <properties/>
+  <testcase name="testQuantityValueNotEqualToOneCm()" classname="testQuantityComaparision" time="0.059"/>
+  <testcase name="testQuantityEqualsOneCm()" classname="testQuantityComaparision" time="0.002"/>
+  <testcase name="testQuantityUnitNotEqualToCm()" classname="testQuantityComaparision" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

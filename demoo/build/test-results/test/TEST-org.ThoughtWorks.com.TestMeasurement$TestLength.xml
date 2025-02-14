@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests for Length" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-22T11:20:21" hostname="DESKTOP-1NO7M7P" time="0.067">
+  <properties/>
+  <testcase name="test1cmEquals1cm()" classname="org.ThoughtWorks.com.TestMeasurement$TestLength" time="0.067"/>
+  <system-out><![CDATA[class org.ThoughtWorks.com.Length class org.ThoughtWorks.com.Length
+1
+1.0 1.0
+1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

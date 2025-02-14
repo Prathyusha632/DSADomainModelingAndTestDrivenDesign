@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArithmeticTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-06-07T14:59:47" hostname="DESKTOP-1NO7M7P" time="0.087">
+  <properties/>
+  <testcase name="negativeNumber1Addition()" classname="ArithmeticTest" time="0.072"/>
+  <testcase name="twoPositiveNumbersAddition()" classname="ArithmeticTest" time="0.002"/>
+  <testcase name="twoNegativeNumbersMultiplication()" classname="ArithmeticTest" time="0.001"/>
+  <testcase name="negativeNumber1Multiplication()" classname="ArithmeticTest" time="0.001"/>
+  <testcase name="twoNegativeNumbersAddition()" classname="ArithmeticTest" time="0.002"/>
+  <testcase name="negativeNumber2Addition()" classname="ArithmeticTest" time="0.001"/>
+  <testcase name="twoPositiveNumbersMultiplication()" classname="ArithmeticTest" time="0.001"/>
+  <testcase name="negativeNumber2Multiplication()" classname="ArithmeticTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

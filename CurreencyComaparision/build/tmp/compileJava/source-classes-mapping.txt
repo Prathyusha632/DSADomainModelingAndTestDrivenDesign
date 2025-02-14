@@ -1,0 +1,3 @@
+org/thoughtworks/Currency.java
+ org.thoughtworks.Currency
+ org.thoughtworks.Currency$Units

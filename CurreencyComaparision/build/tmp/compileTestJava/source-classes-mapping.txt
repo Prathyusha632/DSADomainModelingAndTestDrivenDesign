@@ -1,0 +1,2 @@
+org/thoughtworks/TestCurrency.java
+ org.thoughtworks.TestCurrency

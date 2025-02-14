@@ -1,0 +1,5 @@
+org/ThoughtWorks/com/TestMeasurement.java
+ org.ThoughtWorks.com.TestMeasurement
+ org.ThoughtWorks.com.TestMeasurement$TestLength
+ org.ThoughtWorks.com.TestMeasurement$TestTemperature
+ org.ThoughtWorks.com.TestMeasurement$TestWeight
